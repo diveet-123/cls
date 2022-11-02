@@ -1,0 +1,49 @@
+body
+{
+    background-size: cover;
+}
+
+#h1
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: #08D9D6;
+}
+
+#bt1
+{
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+
+#h3
+{
+    background-color: #277BC0;
+    color: #FFB200;
+}
+
+#status
+{
+    color: #CBF1F5;
+    background-color: #71C9CE;
+}
+
+.copy_right_footer
+{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: #B8FFF9;
+    color: black;
+    line-height: 3;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 100;
+    margin-top: 80px;
+}
